@@ -3,15 +3,18 @@ using System.Collections.Generic;
 
 public class FacturaRepository
 {
-   static private List<Factura> facturas = new List<Factura>(); // Simulación de una base de datos
+    // Lista estática privada que simula una base de datos de facturas.
+    static private List<Factura> facturas = new List<Factura>();
 
-   static public void AgregarFactura(Factura factura)
+    // Método estático para agregar una nueva factura a la "base de datos".
+    static public void AgregarFactura(Factura factura)
     {
-        facturas.Add(factura);
+        facturas.Add(factura);  // Agrega la factura a la lista de facturas.
     }
 
-   static public List<Factura> ObtenerFacturas()
+    // Método estático para obtener la lista de todas las facturas.
+    static public List<Factura> ObtenerFacturas()
     {
-        return facturas;
+        return facturas;  // Retorna la lista de facturas.
     }
 }

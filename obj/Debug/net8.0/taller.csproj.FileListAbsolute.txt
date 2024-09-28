@@ -12,3 +12,4 @@
 /Users/mac/Desktop/Universidad/PDsoftware/taller/obj/Debug/net8.0/taller.pdb
 /Users/mac/Desktop/Universidad/PDsoftware/taller/obj/Debug/net8.0/taller.genruntimeconfig.cache
 /Users/mac/Desktop/Universidad/PDsoftware/taller/obj/Debug/net8.0/ref/taller.dll
+/Users/mac/Desktop/Universidad/PDsoftware/taller/obj/Debug/net8.0/taller.sourcelink.json
