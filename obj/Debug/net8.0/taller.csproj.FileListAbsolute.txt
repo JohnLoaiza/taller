@@ -1,0 +1,14 @@
+/Users/mac/Desktop/Universidad/PDsoftware/taller/bin/Debug/net8.0/taller
+/Users/mac/Desktop/Universidad/PDsoftware/taller/bin/Debug/net8.0/taller.deps.json
+/Users/mac/Desktop/Universidad/PDsoftware/taller/bin/Debug/net8.0/taller.runtimeconfig.json
+/Users/mac/Desktop/Universidad/PDsoftware/taller/bin/Debug/net8.0/taller.dll
+/Users/mac/Desktop/Universidad/PDsoftware/taller/bin/Debug/net8.0/taller.pdb
+/Users/mac/Desktop/Universidad/PDsoftware/taller/obj/Debug/net8.0/taller.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Universidad/PDsoftware/taller/obj/Debug/net8.0/taller.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Universidad/PDsoftware/taller/obj/Debug/net8.0/taller.AssemblyInfo.cs
+/Users/mac/Desktop/Universidad/PDsoftware/taller/obj/Debug/net8.0/taller.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Universidad/PDsoftware/taller/obj/Debug/net8.0/taller.dll
+/Users/mac/Desktop/Universidad/PDsoftware/taller/obj/Debug/net8.0/refint/taller.dll
+/Users/mac/Desktop/Universidad/PDsoftware/taller/obj/Debug/net8.0/taller.pdb
+/Users/mac/Desktop/Universidad/PDsoftware/taller/obj/Debug/net8.0/taller.genruntimeconfig.cache
+/Users/mac/Desktop/Universidad/PDsoftware/taller/obj/Debug/net8.0/ref/taller.dll
